@@ -1,0 +1,17 @@
+<svg id="andjmp" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21.6 24.38">
+<defs>
+<style>
+.cls-1{font-size:12px;font-family:Courier;font-weight:bold;}
+@media (prefers-color-scheme: dark) {
+	text{fill:#fff;}
+	}
+@media (prefers-color-scheme: light) {
+	text{fill:#000;}
+	}
+</style>
+</defs>
+	<text class="cls-1" transform="translate(0 9.47)">
+		and
+		<tspan x="0" y="10">jmp</tspan>
+	</text>
+</svg>
